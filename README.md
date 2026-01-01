@@ -1,8 +1,8 @@
 # 🛒 RetailMart Enterprise Analytics Platform
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
-[![Status](https://img.shields.io/badge/Completed)](#)
-[![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
+[![Domain](https://img.shields.io/badge/Domain-Data%20Analytics-blueviolet)](#)
 
 > An enterprise-grade analytics platform built using **PostgreSQL**, delivering executive, sales, customer, product, operations, and marketing insights through optimized SQL, materialized views, and an interactive dashboard.
 
