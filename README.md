@@ -14,7 +14,7 @@
 
 ### Executive Overview
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](06_dashboard/src/executive_dashboard.png)
 
 ---
 
