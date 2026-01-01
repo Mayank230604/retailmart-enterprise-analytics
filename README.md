@@ -1,12 +1,3 @@
-Got it 👍
-I’ll **rewrite this README in *your* style**, make it **portfolio-ready**, and align it with your GitHub profile
-👉 **[https://github.com/Mayank230604](https://github.com/Mayank230604)**
-
-Below is a **clean, professional, recruiter-friendly version** of your README.
-You can **replace your current README.md entirely** with this.
-
----
-
 # 🛒 RetailMart Enterprise Analytics Platform
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
