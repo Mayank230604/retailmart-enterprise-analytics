@@ -266,7 +266,7 @@ SELECT * FROM analytics.fn_get_refresh_status();
 
 ---
 
-## 🎓 Learning Outcomes
+## 🎓 Skills & Concepts Applied
 
 * Advanced SQL (CTEs, window functions, analytics)
 * Materialized view optimization
