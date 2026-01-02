@@ -228,14 +228,20 @@ The platform includes **6 proactive alert types**:
 ### Manual Refresh
 
 ```sql
+-- Refresh all materialized views
 SELECT * FROM analytics.fn_refresh_all_analytics();
+
+-- Refresh specific module
 SELECT * FROM analytics.fn_refresh_module('sales');
+
+-- Check refresh status
 SELECT * FROM analytics.fn_get_refresh_status();
 ```
 
 ### Scheduled Refresh (cron)
 
 ```bash
+# Add to crontab for hourly refresh
 5 * * * * /path/to/export_all_json.sh --refresh >> /var/log/analytics.log 2>&1
 ```
 
