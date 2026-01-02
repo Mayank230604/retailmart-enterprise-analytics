@@ -93,7 +93,7 @@ Retailmart_Enterprise_Analytics/
    cd Retailmart_Enterprise_Analytics
    ```
 
-2. **Create the RetailMart database**
+2. **Create the RetailMart database**(if not exists)
 
    ```sql
    CREATE DATABASE retailmart_22;
